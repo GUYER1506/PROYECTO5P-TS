@@ -1,6 +1,6 @@
 #include <iostream>
 
-namespace est;
+using namespace std;
 class fernando{
 	
-}
+};
